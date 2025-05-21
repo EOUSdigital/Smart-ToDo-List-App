@@ -36,10 +36,6 @@ A dynamic and interactive to-do list web application built using vanilla JavaScr
 - Implement real-world application logic: validation, filtering, persistence
 - Gain experience with user input and event-driven programming
 
-# Screenshots
-
-> Add screenshots or GIFs of the app running here if needed
-
 # Future Enhancements
 
 - Task editing functionality
