@@ -24,9 +24,9 @@ A dynamic and interactive to-do list web application built using vanilla JavaScr
 # Project Structure
 
 ```
-├── index.html         # App structure
-├── style.css          # App styling
-└── script.js          # App logic and interactivity
+├── index.html
+├── style.css
+└── script.js
 ```
 
 # Learning Objectives
