@@ -11,7 +11,7 @@ A dynamic and interactive to-do list web application built using vanilla JavaScr
 - Persist task data using `localStorage`
 - Responsive and clean user interface
 
-## 🔧 Technologies Used
+# Technologies Used
 
 - HTML5
 - CSS3
@@ -29,7 +29,7 @@ A dynamic and interactive to-do list web application built using vanilla JavaScr
 └── script.js          # App logic and interactivity
 ```
 
-# 📚 Learning Objectives
+# Learning Objectives
 
 - Practice function creation and scope management using closures
 - Work with dynamic DOM manipulation (`document.createElement`, `appendChild`, etc.)
